@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Mathematics and Computer Science at SungKyunKwan University.
-### 🤔 I’m interested in Computer Graphics. 
+### 🤔 I’m interested in Computer Graphics, Cryptography and Machine Learning.
 
 <!--
 **HANWOOL0925/HANWOOL0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
