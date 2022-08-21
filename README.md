@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Mathematics and Computer Science at SungKyunKwan University.
+### 🌱 I’m majored in Mathematics and Computer Science at SungKyunKwan University.
+### 🔭 I’m currently working on Samsung Electronics
 ### 🤔 I’m interested in Security, Computer Graphics and AI.
 
 <!--
