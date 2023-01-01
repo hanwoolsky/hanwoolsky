@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m majored in Mathematics and Computer Science at SungKyunKwan University.
+### 🌱 I majored in Mathematics and Computer Science at SungKyunKwan University.
 ### 🔭 I’m currently working on Samsung Electronics. <img src="https://img.shields.io/badge/Samsung-000000?style=for-the-badge">
 ### 🤔 I’m interested in Security, Computer Graphics and AI.
 
