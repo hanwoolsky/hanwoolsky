@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### 🌱 I majored in Mathematics and Computer Science at SungKyunKwan University.
 ### 🔭 I’m currently working on Samsung Electronics. <img src="https://img.shields.io/badge/Samsung-000000?style=for-the-badge">
-### 🤔 I’m interested in AI Security, Computer Graphics.
 
 <!--
 **HANWOOL0925/HANWOOL0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
